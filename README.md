@@ -16,6 +16,7 @@ springboot集成dubbo<br>
 -
 3.启动后项目的访问路径是：http://localhost:8081//api/v1/dubbo/hello<br>
 -
-
+4.zk注册中心的压缩包我已放到zk的文件夹中，自行解压就可以用了。要在本地启动哦<br>
+-
 该项目很适用于新手学习dubbo的相关知识。实现远程调用<br>
 -
