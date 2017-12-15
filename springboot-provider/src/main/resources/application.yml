@@ -1,0 +1,6 @@
+server:  
+  port: 8082 #指定服务端口号
+  session-timeout: 30  
+  tomcat.uri-encoding: UTF-8  
+  
+  

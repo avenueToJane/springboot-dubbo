@@ -1,0 +1,4 @@
+server:  
+  port: 8081     #服务端口号  访问的端口号
+  session-timeout: 30  #超时时间
+  tomcat.uri-encoding: UTF-8   #字符编码
